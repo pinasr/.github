@@ -1,18 +1,20 @@
 # About 📚☀️🌴
 
-> *In a hurry? To explore the current collection of R packages in the repository, check out [collection.](https://pinasr.r-universe.dev/packages) You may also click the badges below for the direct link to your needs (for finding tutorials, click articles; for the packages available, click packages)*
+> *In a hurry? To explore the current collection of R packages in the repository, check out [collection.](https://pinasr.r-universe.dev/packages) You may also click the badges below for the direct link to your needs (for finding tutorials, click articles; to check available packages, click packages)*
 
 [![registry status badge](https://pinasr.r-universe.dev/badges/:registry)](https://pinasr.r-universe.dev/)
 [![PinasR Total Packages](https://pinasr.r-universe.dev/badges/:total)](https://pinasr.r-universe.dev)
 [![articles status badge](https://pinasr.r-universe.dev/badges/:articles)](https://pinasr.r-universe.dev/articles)
 
-**PinasR** is an independent, community-driven software registry dedicated to consolidating, building, and distributing R packages tailored to the unique geographic, socioeconomic, and ecological landscape of the Philippines. By fully leveraging the specialized features of the R-Universe infrastructure, this repository serves as a centralized, high-performance platform that champions the open-source movement across the archipelago.
+**PinasR** is an independent, community-driven software registry dedicated to consolidating, building, and distributing R packages tailored to the unique geographic, socioeconomic, and ecological landscape of the Philippines. By fully leveraging the specialized features of the R-Universe infrastructure, this repository serves as a centralized platform that champions the open-source movement across the archipelago.
 
 ## Single-Line Installation
-While using the R programming language for your analysis, package development. etc., you can seamlessly install all existing packages here to your own device:
+While using the R programming language for your analysis, package development, etc., you can seamlessly install all existing packages here to your own device:
 
 ```
-# Enable the PinasR repository globally for your active session. NOTE: We currently only host CRAN packages to ensure the quality of tools being loaded.
+# Enable the PinasR repository globally for your active session.
+NOTE: We currently only host CRAN packages to ensure the quality of tools being loaded.
+
 options(repos = c(
   pinasr = "https://r-universe.dev",
   CRAN = "https://r-project.org"
