@@ -1,6 +1,6 @@
 # About 📚☀️🌴
 
-> *In a hurry? To explore the current collection of R packages in the repository, check out [collection.](https://pinasr.r-universe.dev/packages) You may also click the badges below for the direct link to your needs (articles = tutorials); packages = software indexed*
+> *In a hurry? To explore the current collection of R packages in the repository, check out [collection.](https://pinasr.r-universe.dev/packages) You may also click the badges below for the direct link to your needs (for finding tutorials, click articles; for the packages available, click packages)*
 
 [![registry status badge](https://pinasr.r-universe.dev/badges/:registry)](https://pinasr.r-universe.dev/)
 [![PinasR Total Packages](https://pinasr.r-universe.dev/badges/:total)](https://pinasr.r-universe.dev)
