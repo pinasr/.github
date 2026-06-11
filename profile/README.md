@@ -22,8 +22,15 @@ options(repos = c(
 # replace "palettephines" with any package name in the ecosystem
 install.packages("palettephines")
 ```
-## Key R-Universe Integration
+## Key R-Universe Integration 🚀
 * **Instant Session Setup:** Users can integrate the entire Philippine R ecosystem into their active R session with a single line of code, ensuring seamless loading without manual installation struggles.
+  
 * **Cross-Platform Compilation:** The platform handles automatic building and testing across Linux, macOS, and Windows environments, providing ready-to-use binaries for every user.
+  
 * **Global Discoverability: Every package is indexed with structured metadata, interactive documentation, and real-time health dashboards to maximize the visibility of Filipino-led scientific tools.**
+  
 * **Automated Syncing: The registry links directly to package repositories, instantly pulling updates, tracking commits, and serving the latest development builds without developer overhead.**
+
+## Sali Na! (How to Contribute) 🔗‍💥
+
+To contribute, you just need to update the `packages.json` file in [this](https://github.com/pinasr/pinasr.r-universe.dev) repository. Once the Pull Request is merged, the PinasR bot will automatically detect your package, build the binaries for Windows, Mac, and Linux, and feature it on our official registry. For concerns that you haven't settled despite online research, you may get in touch [here.](ninotalingting77@gmail.com).
