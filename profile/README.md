@@ -1,4 +1,4 @@
-# About 📚☀️🌴
+# Mabuhay! 📚☀️🌴
 
 > *In a hurry? To explore the current collection of R packages in the repository, check out [collection.](https://pinasr.r-universe.dev/packages) You may also click the badges below for the direct link to your needs (for finding tutorials, click articles; to check available packages, click packages)*
 
