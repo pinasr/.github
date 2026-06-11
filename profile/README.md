@@ -1,4 +1,5 @@
 > *In a hurry? To explore the current collection of R packages in the repository, check out [collection.](https://pinasr.r-universe.dev/packages)*
+
 [![PinasR Registry Status](https://r-universe.dev)](https://pinasr.r-universe.dev)
 [![PinasR Total Packages](https://pinasr.r-universe.dev/badges/:total)](https://pinasr.r-universe.dev)
 [![Build Status](https://pinasr.r-universe.dev/badges/PACKAGE_NAME)](https://r-universe.dev)
