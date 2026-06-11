@@ -1,4 +1,4 @@
-#About
+# About
 
 > *In a hurry? To explore the current collection of R packages in the repository, check out [collection.](https://pinasr.r-universe.dev/packages)*
 
