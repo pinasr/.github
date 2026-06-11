@@ -6,7 +6,9 @@
 [![PinasR Total Packages](https://pinasr.r-universe.dev/badges/:total)](https://pinasr.r-universe.dev)
 [![articles status badge](https://pinasr.r-universe.dev/badges/:articles)](https://pinasr.r-universe.dev/articles)
 
-**PinasR** is an independent, community-driven software registry dedicated to consolidating, building, and distributing R packages tailored to the unique geographic, socioeconomic, and ecological landscape of the Philippines. By fully leveraging the specialized features of the R-Universe infrastructure, this repository serves as a centralized platform that champions the open-source movement across the archipelago.
+In the Philippines, a lot of excellent research and data code gets trapped inside academic PDFs, abandoned personal GitHub accounts, among others that prevent other researchers to build on top of it. PinasR aims to cultivate the culture of rescuing codes, packaging it properly, and keeping it alive for the Filipino community.
+
+While we are currently focused on consolidating existing Filipino packages on the Comprehensive R Archive Network (CRAN), this curated collection is the practical first step toward our larger mission. By organizing what is already public, we are building the local open-science infrastructure needed to make regional data accessible and reproducible, ensuring Filipino researchers can actually build on each other's work to solve local problems.
 
 ## Single-Line Installation 👨🏻‍💻
 While using the R programming language for your analysis, package development, etc., you can seamlessly install all existing packages here to your own device:
