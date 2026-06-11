@@ -8,7 +8,7 @@
 
 **PinasR** is an independent, community-driven software registry dedicated to consolidating, building, and distributing R packages tailored to the unique geographic, socioeconomic, and ecological landscape of the Philippines. By fully leveraging the specialized features of the R-Universe infrastructure, this repository serves as a centralized platform that champions the open-source movement across the archipelago.
 
-## Single-Line Installation
+## Single-Line Installation 👨🏻‍💻
 While using the R programming language for your analysis, package development, etc., you can seamlessly install all existing packages here to your own device:
 
 ```
