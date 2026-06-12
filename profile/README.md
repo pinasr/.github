@@ -48,3 +48,8 @@ No. PinasR is an infrastructure meant for centralizing and distributing R packag
 
 Unlike traditional social-first tech groups, PinasR is a code-first infrastructure project that bypasses seminars and meetups to focus entirely on centralizing existing software. It acts like a curated app store for Philippine-made R packages, allowing users to easily pick tools useful for their projects or load the entire ecosystem into their R console simultaneously. Rather than trying to add another social layer to the already vibrant local tech community, PinasR simply provides the underlying plumbing to house and distribute their code.
 
+* How can I ensure the tools in PinasR yield accurate results for my own research?
+
+Every tool undergoes continuous integration pipelines that run automated unit tests to verify that underlying algorithms and formulas produce exact statistical outputs before deployment. Because the codebase is completely public, researchers can audit every line of logic to ensure it aligns with established methodologies. If an anomaly is suspected, researchers can isolate the variance using a reproducible example (reprex) to determine whether the issue stems from an algorithmic bug or localized data artifacts. 
+
+Furthermore, immutable version control archives every software iteration, allowing external reviewers to mirror your exact computational environment and replicate your findings. This continuous public auditing by a global and local network of statisticians, data engineers, among other users shows that edge cases are transparently debated, tracked, and patched via the repository’s issue-tracking infrastructure. 
