@@ -1,14 +1,14 @@
 # Mabuhay! 📚☀️🌴
 
-> *In a hurry? To explore the current collection of R packages in this repository, check out [collection.](https://pinasr.r-universe.dev/packages) You may also click the badges below for the direct link to your needs (for finding tutorials, click articles; to check available packages, click packages)*
+> *In a hurry? To explore the current collection of R packages in this repository, check out [collection.](https://pinasr.r-universe.dev/packages) You may also click the badges below for the direct link to your needs. (for finding tutorials, click articles; to check available packages, click packages)*
 
 [![registry status badge](https://pinasr.r-universe.dev/badges/:registry)](https://pinasr.r-universe.dev/)
 [![PinasR Total Packages](https://pinasr.r-universe.dev/badges/:total)](https://pinasr.r-universe.dev)
 [![articles status badge](https://pinasr.r-universe.dev/badges/:articles)](https://pinasr.r-universe.dev/articles)
 
-In the Philippines, a lot of excellent research and data code gets stranded inside academic PDFs, inactive GitHub repositories, and local hard drives, preventing other researchers from building on top of it. PinasR aims to cultivate a community culture of rescuing this code, packaging it properly, and keeping it alive for the Filipino community.
+In the Philippines, a lot of excellent research and data code gets stranded inside academic PDFs, inactive GitHub repositories, and local hard drives, preventing other researchers from building on top of it. PinasR aims to cultivate a community culture of extending this code beyond personal computers, packaging it properly, and keeping it alive for the Filipino community.
 
-While we are currently focused on consolidating existing Filipino packages on the Comprehensive R Archive Network (CRAN), our larger mission is to expand this infrastructure. As long as a piece of local research code is formatted as a functional R package on GitHub, PinasR can host and distribute it via the R-Universe infrastructure by the rOpenSci team — giving personal codes a permanent home as a means of service to the nation. 
+While we are currently focused on consolidating existing Filipino packages on the Comprehensive R Archive Network (CRAN), our larger mission is to expand this infrastructure. As long as a piece of local research code is formatted as a [functional R package](https://r-pkgs.org/) on GitHub, PinasR can host and distribute it via the R-Universe infrastructure by the rOpenSci team — giving personal codes a permanent home as a means of service to the nation.
 
 ## Single-Line Installation 👨🏻‍💻
 While using the R programming language for your analysis, package development, etc., you can seamlessly install all existing packages here to your own device:
@@ -38,3 +38,13 @@ install.packages("palettephines")
 ## Sali Na! (How to Contribute) 🔗‍💥
 
 To contribute, you just need to update the `packages.json` file in [this](https://github.com/pinasr/pinasr.r-universe.dev) repository. Once the Pull Request is merged, the PinasR bot will automatically detect your package, build the binaries for Windows, Mac, and Linux, and feature it on our official registry. For concerns that you haven't settled despite online research, you may get in touch [here.](ninotalingting77@gmail.com).
+
+## FAQs ❓
+* Does PinasR have communication channels (i.e., Discord) for socializing?
+
+No. PinasR is an infrastructure meant for centralizing and distributing R packages. We believe the Filipino tech community already has existing communities that actively promotes this aspect, such as the [R Users Group - Philippines](https://www.facebook.com/rugph/) for R and [Data Science Philippines](https://www.meetup.com/data-science-philippines/) for meet-ups across programming languages. For communication, users can use existing channels within Github such as submitting an issue or creating a Pull Request.
+
+* What makes PinasR different from other tech communities?
+
+Unlike traditional social-first tech groups, PinasR is a code-first infrastructure project that bypasses seminars and meetups to focus entirely on centralizing existing software. It acts like a curated app store for Philippine-made R packages, allowing users to easily pick tools useful for their projects or load the entire ecosystem into their R console simultaneously. Rather than trying to add another social layer to the already vibrant local tech community, PinasR simply provides the underlying plumbing to house and distribute their code.
+
