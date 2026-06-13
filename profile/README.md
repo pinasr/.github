@@ -1,4 +1,4 @@
-# About 🗂️🤖
+# About 🗂️📦
 
 > *In a hurry? To explore the current collection of R packages in this repository, check out [collection.](https://pinasr.r-universe.dev/packages) You may also click the blue badges below for the direct link to your needs. (for finding tutorials, click articles; to check available packages, click packages)*
 
