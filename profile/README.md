@@ -8,7 +8,7 @@
 
 In the Philippines, a lot of excellent research and data code gets stranded inside academic PDFs, inactive GitHub repositories, and local hard drives, preventing other researchers from building on top of it. PinasR aims to cultivate a community culture of extending this code beyond personal computers, packaging it properly, and keeping it alive for the Filipino community.
 
-While we are currently focused on consolidating existing Filipino packages on the Comprehensive R Archive Network (CRAN), our larger mission is to expand this infrastructure. As long as a piece of local research code is formatted as a [functional R package](https://r-pkgs.org/) on GitHub, PinasR can host and distribute it via the R-Universe infrastructure by the rOpenSci team — giving personal codes a permanent home as a means of service to the nation.
+While we are currently focused on consolidating existing Filipino packages on the Comprehensive R Archive Network (CRAN), our larger mission is to expand this infrastructure. As long as a piece of local research code is formatted as a [functional R package](https://r-pkgs.org/) on GitHub, PinasR can host and distribute it via the R-Universe infrastructure by the rOpenSci team — giving personal codes a permanent home as a means of service to the nation. #ParaSaBayan
 
 ## Single-Line Installation 👨🏻‍💻
 While using the R programming language for your analysis, package development, etc., you can seamlessly install all existing packages here to your own device:
