@@ -1,6 +1,8 @@
-# About 🗂️📦
+# About 🗂️
 
-> *In a hurry? To explore the current collection of R packages in this repository, check out [collection.](https://pinasr.r-universe.dev/packages) You may also click the blue badges below for the direct link to your needs. (for finding tutorials, click articles; to check available packages, click packages)*
+> *In a hurry? To explore the current collection of R packages in this repository, check out [collection.](https://pinasr.r-universe.dev/packages) You may also click the blue badges below for the direct link to your needs (for finding tutorials, click articles; to check available packages, click packages).*
+
+> *To integrate your own R package into PinasR, kindly click [submission](https://github.com/pinasr/pinasr.r-universe.dev)
 
 [![registry status badge](https://pinasr.r-universe.dev/badges/:registry)](https://pinasr.r-universe.dev/)
 [![PinasR Total Packages](https://pinasr.r-universe.dev/badges/:total)](https://pinasr.r-universe.dev)
